@@ -1,0 +1,58 @@
+# フリカレ監視BOT .gitignore
+
+# 設定ファイル（重要: トークンを含む）
+config.py
+
+# データファイル
+users.json
+previous_data.json
+
+# ログファイル
+*.log
+bot.log
+
+# スクリーンショット
+screenshots/
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# 環境変数
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# バックアップ
+*.bak
+*.backup
+backup/
+
+# テスト
+.pytest_cache/
+.coverage
+htmlcov/
+
+# その他
+*.tmp
+*.temp
+.cache/

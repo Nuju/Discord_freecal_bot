@@ -1,0 +1,14 @@
+# フリカレ監視BOT 依存ライブラリ
+# Python 3.11+ 推奨
+
+# Discord BOT フレームワーク
+discord.py>=2.3.0
+
+# Webスクレイピング
+selenium>=4.10.0
+webdriver-manager>=4.0.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# オプション: 環境変数管理（config.pyで環境変数を使用する場合）
+# python-dotenv>=1.0.0

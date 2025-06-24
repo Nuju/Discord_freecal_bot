@@ -109,9 +109,9 @@ freecal_bot/
 
 ## 📖 詳細なドキュメント
 
-- [利用ガイド](docs/user_guide.md)
-- [管理者ガイド](docs/admin_guide.md)
-- [開発ナレッジ](docs/dev_knowledge.md)
+- [利用ガイド](user_guide.md)
+- [管理者ガイド](admin_guide.md)
+- [開発ナレッジ](dev_knowledge.md)
 
 ## 📞 サポート
 
